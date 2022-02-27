@@ -16,7 +16,7 @@ const onToken=token=>{
             name='LikeMike Clothing Ltd.'
             billingAddress
             shippingAddress
-            image=''
+            image='https://svgshare.com/i/CUz.svg'
             description={`Your total is $${price}`}
             amount={priceForStripe}
             panelLabel='Pay Now'
